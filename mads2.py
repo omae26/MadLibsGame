@@ -1,4 +1,4 @@
-print("Let's play Mad Libs!\nFill in the blanks below:")
+print("Let's play Mad Libs!\nFill in the blanks below: ")
 
 #Collect user inputs
 name = input("Enter a name: ")
