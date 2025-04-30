@@ -1,3 +1,5 @@
+# Simple mad libs game
+
 print("Let's play Mad Libs")
 
 village = input("Enter a village: ")
