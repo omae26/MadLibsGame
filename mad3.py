@@ -1,4 +1,4 @@
-# Simple mad libs game
+# Simple mad libs game.
 
 print("Let's play Mad Libs")
 
