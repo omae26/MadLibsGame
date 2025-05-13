@@ -1,12 +1,12 @@
 print("Let's play Mad Libs!\nFill in the blanks below: ")
 
-#Collect user inputs
+#Collect user inputs.
 name = input("Enter a name: ")
 planet = input("Enter the name of a planet: ")
 vehicle = input("Enter a type of vehicle: ")
 alien_creature = input("Enter a type of alien creature: ")
 emotion = input("Enter an emotion: ")
-verb = input("Enter a verb: ")
+verb = input("Enter a verb: ") 
 
 #story template
 print("Captain " + name + " boarded the " + vehicle + " and set course for planet " + planet + "."
